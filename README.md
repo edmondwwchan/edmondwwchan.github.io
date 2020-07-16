@@ -6,43 +6,43 @@ I am currently a Senior Solutions Architect at [Akamai](http://www.akamai.com/).
 
 ### Publications
 
-1. **LinkScope: Toward Detecting Target Link Flooding Attacks**
+- **LinkScope: Toward Detecting Target Link Flooding Attacks**
 Lei Xue, Xiaobo Ma, Xiapu Luo, Edmond W. W. Chan, Tony T. N. Miu, and Guofei Gu
 _IEEE Transactions on Information Forensics and Security (TIFS)_, 2018 
 
-2. **Towards Detecting Target Link Flooding Attack**
+- **Towards Detecting Target Link Flooding Attack**
 Lei Xue, Xiapu Luo, Edmond W. W. Chan, and Xian Zhan
 _USENIX LISA_, 2014 
 
-**On Measuring One-way Path Metrics From a Web Server (Concise Paper)**
+- **On Measuring One-way Path Metrics From a Web Server (Concise Paper)**
 Xiapu Luo, Xue Lei, Cong Shi, Yuru Shao, Chenxiong Qian, and Edmond W. W. Chan
 _IEEE ICNP_, 2014 
 
-**An Efficient Approach to Multi-level Route Analytics**
+- **An Efficient Approach to Multi-level Route Analytics**
 Ang Chen ,  Edmond W. W. Chan ,  Xiapu Luo, Waiting W. T. Fok,  and  Rocky K. C. Chang 
 _IFIP/IEEE IM (Technical Sessions)_, 2013 
 
-**MonoScope: Automated Network Faults Diagnosis Based on Active Measurements**
+- **MonoScope: Automated Network Faults Diagnosis Based on Active Measurements**
 Waiting W. T. Fok, Xiapu Luo, Ricky K. P. Mok, Weichao Li, Yujing Liu, Edmond W. W. Chan, and  Rocky K. C. Chang
 _IFIP/IEEE IM (Technical Sessions)_, 2013 
 
-**Robust Network Covert Communications Based on TCP and Enumerative Combinatorics**
+- **Robust Network Covert Communications Based on TCP and Enumerative Combinatorics**
 Xiapu Luo, Edmond W. W. Chan, Peng Zhou, and Rocky K.C. Chang
 _IEEE Transactions on Dependable and Secure Computing (TDSC)_, 2012 
 
-**Characterization of 3G Control-plane Signaling Overhead from a Data-plane Perspective**
+- **Characterization of 3G Control-plane Signaling Overhead from a Data-plane Perspective**
 Li Qian, Edmond W. W. Chan, Patrick P. C. Lee, and Cheng He
 _ACM MSWiM_, 2012 
 
-**QDASH: A QoE-aware DASH System**
+- **QDASH: A QoE-aware DASH System**
 Ricky K. P. Mok, Xiapu Luo, Edmond W. W. Chan, and Rocky K. C. Chang
 _ACM MMSys_, 2012 
 
-**An Integrative Multi-level Analysis of Internet Path Changes**
+- **An Integrative Multi-level Analysis of Internet Path Changes**
 Ang Chen, Edmond W. W. Chan, Xiapu Luo, and Rocky K. C. Chang
 _ACM CoNEXT Student Workshop_, 2011
 
-**TRIO: Measuring Asymmetric Capacity with Three Minimum Round-trip Times**
+- **TRIO: Measuring Asymmetric Capacity with Three Minimum Round-trip Times**
 Edmond W. W. Chan, Ang Chen, Xiapu Luo, Ricky K. P. Mok, Weichao Li, and Rocky K. C. Chang
 _ACM CoNEXT_, 2011 
 
