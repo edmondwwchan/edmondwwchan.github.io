@@ -1,6 +1,6 @@
 ## About me
 
-![image](https://github.com/edmondwwchan/edmondwwchan.github.io/edit/master/images/edmond.jpg)
+![Edmond W. W. Chan](images/edmond.jpg)
 
 I am currently a Senior Solutions Architect at [Akamai](http://www.akamai.com/). I received my BSc and PhD from the Hong Kong Polytechnic University. My research interests include Internet measurement, web performance & network security.
 
