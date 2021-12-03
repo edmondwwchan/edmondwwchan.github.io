@@ -2,7 +2,7 @@
 
 <!--<img src="images/edmond.jpg" alt="Edmond W. W. Chan" style="width:25%;">-->
 
-I am currently a Senior Architect & Consultant at [Akamai Professional Services](http://www.akamai.com/). I received my BSc and PhD from the Hong Kong Polytechnic University. My research interests include Internet measurement, web performance & network security.
+I am a Senior Architect & Consultant at [Akamai Professional Services](http://www.akamai.com/). I received my BSc and PhD from the Hong Kong Polytechnic University. I am interested in Internet measurement, web performance and network security.
 
 ### Publications
 
