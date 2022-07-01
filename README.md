@@ -2,7 +2,7 @@
 
 <!--<img src="images/edmond.jpg" alt="Edmond W. W. Chan" style="width:25%;">-->
 
-I am a Senior Solutions Architect at [Akamai](http://www.akamai.com/). I received my BSc and PhD from the Hong Kong Polytechnic University. My work focuses on Internet measurement, web performance and network security.
+I am a Principal Solutions Architect at [Akamai](http://www.akamai.com/). I received my BSc and PhD from the Hong Kong Polytechnic University. My work focuses on Internet measurement, web performance and network security.
 
 ### Publications
 
