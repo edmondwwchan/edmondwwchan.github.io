@@ -19,7 +19,7 @@ Xiapu Luo, Xue Lei, Cong Shi, Yuru Shao, Chenxiong Qian, and Edmond W. W. Chan
 _IEEE ICNP_, 2014  
 
 - **An Efficient Approach to Multi-level Route Analytics**  
-Ang Chen ,  Edmond W. W. Chan ,  Xiapu Luo, Waiting W. T. Fok,  and  Rocky K. C. Chang  
+Ang Chen,  Edmond W. W. Chan ,  Xiapu Luo, Waiting W. T. Fok,  and  Rocky K. C. Chang  
 _IFIP/IEEE IM (Technical Sessions)_, 2013  
 
 - **MonoScope: Automated Network Faults Diagnosis Based on Active Measurements**  
