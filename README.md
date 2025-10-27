@@ -6,6 +6,10 @@ I am a Principal Solutions Architect at [Akamai](http://www.akamai.com/). I rece
 
 ### Publications
 
+- **Analyzing Internet Background Radiation with Reflective Network Telescopes**  
+Echo Chan, Ricky K. P. Mok, Edmond W. W. Chan, and Xiapu Luo  
+_ACM ANRW_, 2025  
+
 - **LinkScope: Toward Detecting Target Link Flooding Attacks**  
 Lei Xue, Xiaobo Ma, Xiapu Luo, Edmond W. W. Chan, Tony T. N. Miu, and Guofei Gu  
 _IEEE Transactions on Information Forensics and Security (TIFS)_, 2018  
